@@ -1,4 +1,5 @@
-# Coursera-test
+# github-final-project
+
 Simple Interest Calculator
 
 This is a simple program that calculates simple interest based on the principal amount, interest rate, and time period.
