@@ -1,6 +1,6 @@
-$ git checkout main
-$ git merge bug-fix-typo
-Updating 7e6ff5c..7fea3d2
+git merge bug-fix-readme
+
+Updating d664bcc..3e5401c
 Fast-forward
- simple-interest.sh | 10 ++++++++++
- 1 file changed, 10 insertions(+)
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
