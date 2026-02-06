@@ -1,1 +1,3 @@
+$ curl -s https://api.github.com/repos/drobnjakfilip0-cmd/github-final-project/branches
+
 * main 2fa1522 [origin/main] bug-fix-revert
